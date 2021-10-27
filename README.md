@@ -1,4 +1,10 @@
 # Build a Rock Climbing Company Landing Page with HTML & CSS
+<br/>
+
+[*Link to Pluralsight Course*](https://app.pluralsight.com/projects/build-a-rock-climbing-company-landing-page-with-html-css/)
+
+
+
 
 Verify Local Environment
 Installation
